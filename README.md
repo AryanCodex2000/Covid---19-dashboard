@@ -7,3 +7,6 @@ we are using the covid-19 cases in india datasets nd the ICMR testing labs avail
 ## Data set 
 - <a href="https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data">global forecast countries dataset covid 19 india</a>
 #Shape file is also provided in the folder so can access it.
+
+## DASHBOARD LINK
+-<a href="https://public.tableau.com/views/Covid-19_17348604278970/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">This is the dashboard</a>
