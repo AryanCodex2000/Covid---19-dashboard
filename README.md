@@ -10,3 +10,6 @@ we are using the covid-19 cases in india datasets nd the ICMR testing labs avail
 
 ## DASHBOARD LINK
 -<a href="https://public.tableau.com/views/Covid-19_17348604278970/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">This is the dashboard</a>
+
+##Dashboard Image
+![image](https://github.com/user-attachments/assets/7c49a1d4-4ff7-4de8-b36f-4a7be7476300)
